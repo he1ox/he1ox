@@ -7,6 +7,9 @@
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=he1ox&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=he1ox&hide=javascript,assembly,pawn,java&theme=dracula)
+
 </div>
 
 

@@ -4,7 +4,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-jorge__ig__-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/jorge__ig__/)](https://instagram.com/jorge__ig__/)
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=he1ox&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=he1ox&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=he1ox&layout=compact)
 
 
 <!---

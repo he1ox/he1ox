@@ -43,7 +43,8 @@ I enjoy everything about computers, artificial intelligence and the things achie
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=he1ox&hide=javascript,assembly,pawn,java&theme=radical" />
 </a>
 
-
+## Wakatime Stats 📊
+[![he1ox wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=he1ox)](https://github.com/he1ox/github-readme-stats)
 <!---
 he1ox/he1ox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

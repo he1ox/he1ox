@@ -13,6 +13,7 @@ I enjoy everything about computers, artificial intelligence and the things achie
   <img alt="Python" src="https://img.shields.io/badge/python-F7DF1E?logo=python&logoColor=white&style=for-the-badge" />
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-000?logo=mysql&logoColor=white&style=for-the-badge" />
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
+  <img alt="GULP" src="https://img.shields.io/badge/gulp-FF0000?logo=gulp&logoColor=white&style=for-the-badge" />
 </p>
 
 - I've been learning from Udemy, Platzi, FreeCodeCamp and other sources as a self taught.

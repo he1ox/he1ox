@@ -1,21 +1,46 @@
-<div align=center>
-  
 
+# Hi  👋
 
-[![Gmail Badge](https://img.shields.io/badge/-jlopezg112@miumg.edu.gt-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jlopezg112@miumg.edu.gt)](mailto:jlopezg112@miumg.edu.gt) 
-[![Instagram Badge](https://img.shields.io/badge/-jorge__ig__-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/jorge__ig__/)](https://instagram.com/jorge__ig__/)
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+My name is Jorge López. I'm a systems engineer student. Currently learning software development. 
+I enjoy everything about computers, artificial intelligence and the things achieved by the power of computing.
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=he1ox&count_private=true&include_all_commits=true&theme=dracula&show_icons=true)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=he1ox&hide=javascript,assembly,pawn,java&theme=dracula)
+## Technologies ⚡
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
+  <img alt="Python" src="https://img.shields.io/badge/python-F7DF1E?logo=python&logoColor=white&style=for-the-badge" />
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-000?logo=mysql&logoColor=white&style=for-the-badge" />
+  <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
+</p>
 
+- I've learning from Udemy, Platzi, FreeCodeCamp and other sources as a self taught.
+- I'm constantly trying to learn something new everyday.
 
+## Contact Me 🗨 
 
-  
-</div>
+<p>
+  <a href="mailto:georgev9000@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/gmail-FF0000?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/notInterestxng">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/jorge__ig__/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
+## My GitHub Stats 📊
 
+<a href="https://github.com/he1ox/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=he1ox&include_all_commits=true&count_private=true&show_icons=true&theme=radical" />
+</a>
+
+<a href="https://github.com/he1ox/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=he1ox&hide=javascript,assembly,pawn,java&theme=radical" />
+</a>
 
 
 <!---

@@ -15,7 +15,7 @@ I enjoy everything about computers, artificial intelligence and the things achie
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
 </p>
 
-- I've learning from Udemy, Platzi, FreeCodeCamp and other sources as a self taught.
+- I've been learning from Udemy, Platzi, FreeCodeCamp and other sources as a self taught.
 - I'm constantly trying to learn something new everyday.
 
 ## Contact Me 🗨 

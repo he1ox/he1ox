@@ -1,7 +1,7 @@
 
 # Hi  👋
 
-My name is Jorge López. I'm a systems engineer student. Currently learning software development. 
+My name is Jorge López. I'm a Systems Engineering student. Currently learning software development. 
 I enjoy everything about computers, artificial intelligence and the things achieved by the power of computing.
 
 ## Technologies ⚡

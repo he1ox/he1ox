@@ -16,6 +16,7 @@ I enjoy everything about computers, artificial intelligence and the things achie
   <img alt="GULP" src="https://img.shields.io/badge/gulp-FF0000?logo=gulp&logoColor=white&style=for-the-badge" />
 </p>
 
+- I'm studying Systems Engineering at Mariano Galvez university.
 - I've been learning from Udemy, Platzi, FreeCodeCamp and other sources as a self taught.
 - I'm constantly trying to learn something new everyday.
 

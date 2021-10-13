@@ -41,7 +41,7 @@ I enjoy everything about computers, artificial intelligence and the things achie
 </a>
 
 <a href="https://github.com/he1ox/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=he1ox&hide=javascript,assembly,pawn,java&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=he1ox&hide=assembly,pawn&theme=radical" />
 </a>
 
 ## Wakatime Stats 📊

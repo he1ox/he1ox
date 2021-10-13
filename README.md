@@ -10,7 +10,7 @@ I enjoy everything about computers, artificial intelligence and the things achie
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge" />
-  <img alt="Python" src="https://img.shields.io/badge/python-F7DF1E?logo=python&logoColor=white&style=for-the-badge" />
+  <img alt="Java" src="https://img.shields.io/badge/java-1572B6?logo=java&logoColor=white&style=for-the-badge" />
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-000?logo=mysql&logoColor=white&style=for-the-badge" />
   <img alt="C Sharp" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" />
   <img alt="GULP" src="https://img.shields.io/badge/gulp-FF0000?logo=gulp&logoColor=white&style=for-the-badge" />

@@ -23,11 +23,8 @@ I enjoy everything about computers, artificial intelligence and the things achie
 ## Contact Me 🗨 
 
 <p>
-  <a href="mailto:georgev9000@gmail.com">
+  <a href="mailto:jlopezgarciagt.com">
     <img alt="Gmail" src="https://img.shields.io/badge/gmail-FF0000?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://twitter.com/notInterestxng">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.instagram.com/jorge__ig__/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />

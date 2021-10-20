@@ -23,7 +23,7 @@ I enjoy everything about computers, artificial intelligence and the things achie
 ## Contact Me 🗨 
 
 <p>
-  <a href="mailto:jlopezgarciagt.com">
+  <a href="mailto:jlopezgarciagt@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/gmail-FF0000?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://www.instagram.com/jorge__ig__/">

@@ -42,7 +42,9 @@ I enjoy everything about computers, artificial intelligence and the things achie
 </a>
 
 ## Wakatime Stats 📊
-[![he1ox wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=he1ox)](https://github.com/he1ox/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!---
 he1ox/he1ox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

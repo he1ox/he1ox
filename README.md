@@ -43,6 +43,12 @@ I enjoy everything about computers, artificial intelligence and the things achie
 
 ## Wakatime Stats 📊
 <!--START_SECTION:waka-->
+
+```text
+Java   58 mins         █████████████████████████   99.97 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+```
+
 <!--END_SECTION:waka-->
 
 <!---

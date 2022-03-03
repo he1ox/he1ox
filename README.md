@@ -45,8 +45,11 @@ I enjoy everything about computers, artificial intelligence and the things achie
 <!--START_SECTION:waka-->
 
 ```text
-Java   58 mins         █████████████████████████   99.97 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Java             4 hrs 29 mins   ███████████████████████▓░   94.83 %
+CLASS            11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+XML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->

@@ -31,16 +31,6 @@ I enjoy everything about computers, artificial intelligence and the things achie
   </a>
 </p>
 
-## My GitHub Stats 📊
-
-<a href="https://github.com/he1ox/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=he1ox&include_all_commits=true&count_private=true&show_icons=true&theme=radical" />
-</a>
-
-<a href="https://github.com/he1ox/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=he1ox&hide=assembly,pawn&theme=radical" />
-</a>
-
 ## Wakatime Stats 📊
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2012%20mins-blue)

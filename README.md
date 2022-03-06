@@ -33,9 +33,7 @@ I enjoy everything about computers, artificial intelligence and the things achie
 
 ## Wakatime Stats 📊
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2046%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-210-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-220-blue)
 
 **🐱 My GitHub Data** 
 
@@ -117,7 +115,7 @@ Assembly                 2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/he1ox/he1ox/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/03/2022 15:12:23 UTC
+ Last Updated on 06/03/2022 18:44:01 UTC
 <!--END_SECTION:waka-->
 
 <!---

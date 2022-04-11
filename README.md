@@ -35,7 +35,7 @@ I enjoy everything about computers, artificial intelligence and the things achie
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
 **🐱 My GitHub Data** 
 
@@ -78,18 +78,16 @@ Sunday       36 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-JavaScript               41 mins             ███████████████████████░░   94.17% 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   3.16% 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  43 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          43 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  43 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -110,7 +108,7 @@ Assembly                 2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/he1ox/he1ox/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/04/2022 18:46:34 UTC
+ Last Updated on 11/04/2022 18:50:20 UTC
 <!--END_SECTION:waka-->
 
 <!---

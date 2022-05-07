@@ -35,7 +35,7 @@ I enjoy everything about computers, artificial intelligence and the things achie
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2049%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My GitHub Data** 
 
@@ -109,7 +109,7 @@ Assembly                 2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/he1ox/he1ox/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/05/2022 18:49:45 UTC
+ Last Updated on 07/05/2022 18:47:26 UTC
 <!--END_SECTION:waka-->
 
 <!---

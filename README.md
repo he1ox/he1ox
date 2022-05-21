@@ -33,7 +33,7 @@ I enjoy everything about computers, artificial intelligence and the things achie
 
 ## Wakatime Stats 📊
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -41,7 +41,7 @@ I enjoy everything about computers, artificial intelligence and the things achie
 
 > 🏆 39 Contributions in the Year 2022
  > 
-> 📦 180.5 kB Used in GitHub's Storage 
+> 📦 180.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,18 +78,17 @@ Sunday       35 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-Java                     3 hrs 31 mins       ████████████████████████░   99.13% 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87%
+Java                     1 hr 12 mins        ████████████████████████░   98.6% 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4%
 
 🔥 Editors: 
-VS Code                  3 hrs 33 mins       █████████████████████████   100.0%
+VS Code                  1 hr 13 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-stackdemo                2 hrs 19 mins       ████████████████░░░░░░░░░   65.43% 
-queue                    1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   34.57%
+queue                    1 hr 13 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 33 mins       █████████████████████████   100.0%
+Windows                  1 hr 13 mins        █████████████████████████   100.0%
 
 ```
 
@@ -110,7 +109,7 @@ Assembly                 2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/he1ox/he1ox/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/05/2022 18:49:31 UTC
+ Last Updated on 21/05/2022 18:47:27 UTC
 <!--END_SECTION:waka-->
 
 <!---

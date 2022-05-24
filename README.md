@@ -33,7 +33,7 @@ I enjoy everything about computers, artificial intelligence and the things achie
 
 ## Wakatime Stats 📊
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-75%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -78,16 +78,21 @@ Sunday       35 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Guatemala
 
 💬 Programming Languages: 
-JavaScript               33 mins             █████████████████████████   100.0%
+JavaScript               33 mins             ███████████░░░░░░░░░░░░░░   47.39% 
+C#                       20 mins             ███████░░░░░░░░░░░░░░░░░░   28.69% 
+Other                    16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.79% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
 🔥 Editors: 
-VS Code                  33 mins             █████████████████████████   100.0%
+Visual Studio            36 mins             █████████████░░░░░░░░░░░░   52.61% 
+VS Code                  33 mins             ███████████░░░░░░░░░░░░░░   47.39%
 
 🐱‍💻 Projects: 
-Grafos y Hashtables      33 mins             █████████████████████████   100.0%
+culebrita                36 mins             █████████████░░░░░░░░░░░░   52.61% 
+Grafos y Hashtables      33 mins             ███████████░░░░░░░░░░░░░░   47.39%
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.0%
+Windows                  1 hr 9 mins         █████████████████████████   100.0%
 
 ```
 
@@ -108,7 +113,7 @@ Assembly                 2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/he1ox/he1ox/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/05/2022 18:47:22 UTC
+ Last Updated on 24/05/2022 18:51:30 UTC
 <!--END_SECTION:waka-->
 
 <!---
